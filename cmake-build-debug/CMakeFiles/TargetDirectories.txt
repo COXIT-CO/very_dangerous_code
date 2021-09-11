@@ -1,0 +1,3 @@
+/home/parallels/workspace/very_dangerous_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parallels/workspace/very_dangerous_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/workspace/very_dangerous_code/cmake-build-debug/CMakeFiles/very_dangerous_code.dir
