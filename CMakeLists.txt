@@ -1,10 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 project(insecure_coding_examples CXX C)
 
-set(GCC_ANALYZE_COMPILE_FLAGS "-fanalyzer")
-add_definitions(${GCC_ANALYZE_COMPILE_FLAGS})
-
-SET(CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} ${GCC_ANALYZE_COMPILE_FLAGS}")
 # -----------------------------------------------------------------
 #
 # EXPLOITABLE

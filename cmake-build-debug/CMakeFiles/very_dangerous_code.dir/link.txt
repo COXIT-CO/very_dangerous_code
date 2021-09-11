@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/very_dangerous_code.dir/main.cpp.o -o very_dangerous_code 
